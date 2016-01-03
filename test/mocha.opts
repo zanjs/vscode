@@ -1,0 +1,4 @@
+--delay
+--ui tdd
+--reporter dot
+test/all.js
