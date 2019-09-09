@@ -32,12 +32,12 @@
   },
   "devDependencies": {
     "jake": "latest",
-    "mocha": "latest",
+    "mocha": "^6.2.0",
     "chai": "latest",
     "browserify": "latest",
-    "istanbul": "latest",
+    "istanbul": "^0.4.5",
     "mocha-fivemat-progress-reporter": "latest",
-    "tslint": "~2",
+    "tslint": "~5.19.0",
     "tsd": "latest"
   },
   "scripts": {
